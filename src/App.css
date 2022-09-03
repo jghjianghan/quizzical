@@ -1,0 +1,63 @@
+.App {
+  height: 100%;
+  background: #f5f7fb;
+  position: relative;
+  font-family: Inter, sans-serif;
+}
+
+.blob {
+  position: absolute;
+  height: 30%;
+}
+
+#blue-blob {
+  bottom: 0;
+  left: 0;
+}
+
+#yellow-blob {
+  right: 0;
+  top: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Karla, sans-serif;
+}
+
+button {
+  font-family: inter, sans-serif;
+  font-weight: 500;
+  cursor: pointer;
+  background: #4d5b9e;
+  border-radius: 15px;
+  border: none;
+  color: white;
+  padding: 1em 2em;
+}
+
+.title-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title-container h1 {
+  margin-bottom: 0;
+}
+
+.quiz-container {
+  padding: 2em 4em;
+}
+
+.quiz-container #submit-button {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
