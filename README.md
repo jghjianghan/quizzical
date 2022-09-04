@@ -1,5 +1,5 @@
 # quizzical
-Final Solo Project for Bob Ziroll's [Scrimba React Course](https://scrimba.com/learn/learnreact/) done by me.
+Final Solo Project for Bob Ziroll's [Scrimba React Course](https://scrimba.com/learn/learnreact/) done by me. See the result [here](https://jghjianghan.github.io/quizzical/).
 
 An SPA that fetches trivia questions from [Open Trivia Database](https://opentdb.com/), displays the questions with the options, and calculate the scores, as well as indicates the right/wrong answers.
 
